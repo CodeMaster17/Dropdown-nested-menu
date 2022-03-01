@@ -1,0 +1,29 @@
+*{
+    margin: 0;padding: 0;
+}
+#heading{
+    text-align: center;
+}
+.head2{
+    color:red;
+}
+.container{
+    border:2px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background:linear-gradient(to right,yellow,red,yellow) ;
+}
+#image{
+    width:40vw;
+    height:93vh;
+}
+.large-font{
+    font-size: 3em;
+    color:white;
+    text-decoration:underline
+}
+.small-font{
+    color:white;
+    font-size: 2em;
+}
